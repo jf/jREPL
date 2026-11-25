@@ -1,3 +1,9 @@
+# an enhanced Node.js REPL
+
+provides:
+- timestamped prompts
+- `j_typeof` (as a function), which detects and reveals more types than your standard `typeof`
+
 ## Usage
 
 ```
